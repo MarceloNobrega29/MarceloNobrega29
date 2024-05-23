@@ -3,10 +3,8 @@
 
 
 <a href="https://github.com/MarceloNobrega29">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloNobrega29&show_icons=true&theme=darcula" />
-</a>
-<a href="https://github.com/MarceloNobrega29">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=darcula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloNobrega29&show_icons=true&theme=darcula" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=darcula" />
 </a>
 
 <div style="display: inline_block"><br>
