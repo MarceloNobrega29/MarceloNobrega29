@@ -4,8 +4,8 @@
 <a href="https://github.com/MarceloNobrega29">
   <table>
     <tr>
-      <td><img height="180" src="https://github-readme-stats.vercel.app/api?username=MarceloNobrega29&show_icons=true&theme=darcula" /></td>
-      <td><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=darcula" /></td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarceloNobrega29&show_icons=true&theme=darcula" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNobrega29&layout=compact&theme=darcula" />
     </tr>
   </table>
 </a>
